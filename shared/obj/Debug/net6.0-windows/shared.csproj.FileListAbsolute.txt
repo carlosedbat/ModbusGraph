@@ -1,0 +1,11 @@
+C:\Users\eduar\Documents\ONWORK\Modbus\Leitor_grafico\shared\bin\Debug\net6.0-windows\shared.deps.json
+C:\Users\eduar\Documents\ONWORK\Modbus\Leitor_grafico\shared\bin\Debug\net6.0-windows\shared.dll
+C:\Users\eduar\Documents\ONWORK\Modbus\Leitor_grafico\shared\bin\Debug\net6.0-windows\shared.pdb
+C:\Users\eduar\Documents\ONWORK\Modbus\Leitor_grafico\shared\obj\Debug\net6.0-windows\shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduar\Documents\ONWORK\Modbus\Leitor_grafico\shared\obj\Debug\net6.0-windows\shared.AssemblyInfoInputs.cache
+C:\Users\eduar\Documents\ONWORK\Modbus\Leitor_grafico\shared\obj\Debug\net6.0-windows\shared.AssemblyInfo.cs
+C:\Users\eduar\Documents\ONWORK\Modbus\Leitor_grafico\shared\obj\Debug\net6.0-windows\shared.csproj.CoreCompileInputs.cache
+C:\Users\eduar\Documents\ONWORK\Modbus\Leitor_grafico\shared\obj\Debug\net6.0-windows\shared.dll
+C:\Users\eduar\Documents\ONWORK\Modbus\Leitor_grafico\shared\obj\Debug\net6.0-windows\refint\shared.dll
+C:\Users\eduar\Documents\ONWORK\Modbus\Leitor_grafico\shared\obj\Debug\net6.0-windows\shared.pdb
+C:\Users\eduar\Documents\ONWORK\Modbus\Leitor_grafico\shared\obj\Debug\net6.0-windows\ref\shared.dll
